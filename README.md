@@ -24,23 +24,19 @@ Welcome to my GitHub profile! I am an aspiring Salesforce Developer with a stron
 ---
 
 ## 🔧 Skills
-
-- **Salesforce Development**
-  - Apex
-  - Salesforce Object Query Language (SOQL)
-  - Salesforce Object Search Language (SOSL)
   
-- **Front-end Development**
+- **Salesforce Front-end Development**
   - HTML
   - JavaScript
   - Lightning Design System (LDS)
   - Lightning Web Components (LWC)
 
-- **Backend Development**
-  - Asynchronous Apex
+- **Salesforce Backend Development**
+  - Apex
   - Apex Triggers
-  - Batch Apex
-  - Future Methods
+  - Asynchronous Apex
+  - Salesforce Object Query Language (SOQL)
+  - Salesforce Object Search Language (SOSL)
 
 ---
 
