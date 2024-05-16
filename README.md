@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I am an aspiring Salesforce Developer with a stron
 ## 📫 Contact Me
 
 - **Email:** suriya.salesforce16@gmail.com
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/suriya03)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/suriya03)
 - **Trailhead:** [Trailhead](https://www.salesforce.com/trailblazer/suriya03)
 
 ![Contact Me](https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail)
